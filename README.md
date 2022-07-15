@@ -39,6 +39,9 @@ Remember: do not have the CMD open while doing this, because the changes are onl
 - 5: Click "New" and add the path where the Gitmmit.exe is. Make sure to put in a place where you won't move it, so you don't need to change the variable later.
 - 6: Press "Ok" on everything and you are done!
 
+## Windows smartscreen
+I know that having Windows' smartscreen popping up takes credibility from my app, but it's totally safe to execute it. If you are familiar with digital certificates and all, you know they are expensive and I don't have the money to buy one, so I rely on Windows' system of trust on apps, where the smartscreen will show up and when a certain amount of users give access to the app, at one point the screen will go away and the app will be fully trusted. So there is no reason to be alarmed for seeing the Windows smartscreen, but if, somehow, you find a malicious content detected on my app, feel free to report it so I can work on fixing it.
+
 [gitw]: https://gitforwindows.org
 [gitm]: https://git-scm.com/download/mac
 [dotnet]: https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer
