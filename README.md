@@ -1,5 +1,13 @@
 # Gitmmit
 
+Gitmmit is a simple tool where you can automatically commit new changes to your repository without having to open Github.
+<br />
+<br />
+The tool is for simple commits only, handeling all types of changes to files (since it will run GIT on the specified folder, that needs to have a .git folder), making a simple commit message and having the capability of specifying a branch to commit to.
+
+## Download
+Download Gitmmit latest version [here.][download]
+
 ## Dependencies
 - [.Net Framework 4.8 runtime][dotnet]
 - [Git (windows)][gitw]
@@ -34,3 +42,4 @@ Remember: do not have the CMD open while doing this, because the changes are onl
 [gitw]: https://gitforwindows.org
 [gitm]: https://git-scm.com/download/mac
 [dotnet]: https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer
+[download]: https://github.com/theshoperr/Gitmmit/releases
